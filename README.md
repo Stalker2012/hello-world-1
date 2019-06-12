@@ -8,6 +8,10 @@ Link para a [folha de macetes](https://github.com/adam-p/markdown-here/wiki/Mark
 
 [Guia Hello World](https://guides.github.com/activities/hello-world/)
 
+Olâ Tarcnux
+
 [:dragon_face:](https://gist.github.com/rxaviers/7360908)
 
 [:guardsman:](https://gist.github.com/rxaviers/7360908)
+
+[:alien:](https://gist.github.com/rxaviers/7360908)
